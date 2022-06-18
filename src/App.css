@@ -1,4 +1,11 @@
 .App {
   text-align: center;
   display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 0 auto;
+  color: white;
+}
+.App li {
+  list-style: none;
 }
